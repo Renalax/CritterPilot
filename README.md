@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://discord.gg/VsUxtMRavb"><img alt="Join the Discord" src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white"></a>
-  <img alt="Free" src="https://img.shields.io/badge/Price-Free-2EA44F">
+  <img alt="Free" src="https://img.shields.io/badge/Free-2EA44F">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-available-0078D4">
   <img alt="Mac coming soon" src="https://img.shields.io/badge/Mac-coming%20soon-8E8E93">
 </p>
