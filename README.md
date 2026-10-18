@@ -43,7 +43,7 @@ CritterPilot is PvE only: it plays the Campaign against the game and never raids
 
 **Will I get banned?**
 
-No. CritterPilot is built so your account doesn't get banned. Like every third-party tool, it isn't allowed by the game's terms, and we'd rather tell you than hide it.
+No. CritterPilot is built so your account doesn't get banned. Like every third-party tool, it isn't allowed by the game's terms, and we'd rather tell you than hide it, but you will not getting banned for a pve game helper.
 
 **Why does Windows show a warning when I install it?**
 
