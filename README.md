@@ -32,7 +32,7 @@ You need a Windows PC with BlueStacks. The Mac version is on its way.
 
 ## Playing fair
 
-CritterPilot is PvE only: it plays the Campaign against the game and never raids, duels or attacks another player. It never buys anything or taps a paid offer. It runs only on your computer, and one click stops it whenever you want to take over.
+CritterPilot is PvE only, also It never buys anything or taps a paid offer. It runs only on your computer, and one click stops it whenever you want to take over.
 
 ## Questions
 
