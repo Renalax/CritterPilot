@@ -1,10 +1,9 @@
 # CritterPilot
 
-**A free-to-start Windows tool that helps you clear the Clash of Critters Campaign.**
+**A FREE Windows tool that helps you clear the Clash of Critters Campaign.**
 
 [![Join the Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/VsUxtMRavb)
-![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4)
-![Free to start](https://img.shields.io/badge/Free%20to%20start-30%20stages%20a%20month-2EA44F)
+
 
 CritterPilot runs on your PC next to BlueStacks. It reads the stage you're on, picks a formation other players have already won it with, fits it to the Tatari you own, places all 15 for you and moves on to the next stage while you do something else.
 
@@ -15,7 +14,7 @@ CritterPilot runs on your PC next to BlueStacks. It reads the stage you're on, p
 | **Campaign** | Available now |
 | **Dojo** | Coming soon |
 | **Boss Challenge** | Coming soon |
-| **PvE events** | Coming soon, one at a time |
+| **PvE events** | Coming soon |
 
 - It knows hundreds of formations that already beat each stage, and new ones get added as players find them.
 - If you're missing a Tatari, it swaps in one of the same family or borrows a formation from a nearby stage.
