@@ -1,11 +1,17 @@
-# CritterPilot
+<p align="center">
+  <a href="https://discord.gg/VsUxtMRavb"><img src="banner.jpg" alt="CritterPilot" width="100%"></a>
+</p>
 
-**A FREE Windows tool that helps you clear the Clash of Critters Campaign.**
+<p align="center"><b>The free PC tool that helps you clear the Clash of Critters Campaign.</b></p>
 
-[![Join the Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/VsUxtMRavb)
+<p align="center">
+  <a href="https://discord.gg/VsUxtMRavb"><img alt="Join the Discord" src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white"></a>
+  <img alt="Free" src="https://img.shields.io/badge/Price-Free-2EA44F">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-available-0078D4">
+  <img alt="Mac coming soon" src="https://img.shields.io/badge/Mac-coming%20soon-8E8E93">
+</p>
 
-
-CritterPilot runs on your PC next to BlueStacks. It reads the stage you're on, picks a formation other players have already won it with, fits it to the Tatari you own, places all 15 for you and moves on to the next stage while you do something else.
+CritterPilot runs on your PC next to BlueStacks. It picks a team that has already won your stage, places it for you and plays the Campaign stage after stage, while you do something else.
 
 ## What it helps with
 
@@ -14,17 +20,7 @@ CritterPilot runs on your PC next to BlueStacks. It reads the stage you're on, p
 | **Campaign** | Available now |
 | **Dojo** | Coming soon |
 | **Boss Challenge** | Coming soon |
-| **PvE events** | Coming soon |
-
-- It knows hundreds of formations that already beat each stage, and new ones get added as players find them.
-- If you're missing a Tatari, it swaps in one of the same family or borrows a formation from a nearby stage.
-- After a loss it brings a different team next time instead of repeating the same one.
-- On the first run it scans your Tatari by itself, so there's nothing to set up.
-- New formations and new versions arrive on their own.
-
-## Free to start
-
-The free version is free forever: 30 won stages every month, losses don't count, and you don't need a card. Plans with more stages are explained on the Discord.
+| **PvE events** | Coming soon, one at a time |
 
 ## Get started
 
@@ -32,7 +28,7 @@ The free version is free forever: 30 won stages every month, losses don't count,
 2. In **#how-to-install**, press **Get your free key**.
 3. Follow the guide in the same channel to download, install and start.
 
-You need a Windows 10 or 11 PC with BlueStacks, and Clash of Critters set to English.
+You need a Windows PC with BlueStacks. The Mac version is on its way.
 
 ## Playing fair
 
@@ -42,7 +38,7 @@ CritterPilot is PvE only: it plays the Campaign against the game and never raids
 
 **Will I get banned?**
 
-No. CritterPilot is built so your account doesn't get banned. Like every third-party tool, it isn't allowed by the game's terms, and we'd rather tell you than hide it, but you will not getting banned for a pve game helper.
+No. CritterPilot is built so your account doesn't get banned. Like every third-party tool, it isn't allowed by the game's terms, and we'd rather tell you than hide it.
 
 **Why does Windows show a warning when I install it?**
 
@@ -50,7 +46,7 @@ The app isn't signed with a paid Microsoft certificate, so SmartScreen asks you 
 
 **Does it work on Mac?**
 
-Not yet. CritterPilot is a Windows app.
+The Mac version is coming soon. Join the Discord to hear first when it's out.
 
 **Where do I get help?**
 
@@ -58,9 +54,9 @@ On the Discord. Questions and bug reports get answered by us and by other player
 
 ## Join us
 
-Everything happens on the Discord: your free key, every new version announced first, news when the game updates, and help when you need it.
+Everything else is on the Discord: your free key, every new version announced first, news when the game updates, and help when you need it.
 
-**[Join the CritterPilot Discord](https://discord.gg/VsUxtMRavb)**
+<p align="center"><a href="https://discord.gg/VsUxtMRavb"><b>Join the CritterPilot Discord</b></a></p>
 
 ---
 
